@@ -1,0 +1,6 @@
+{
+    "smtp.gmail.com": 587,
+    "smtp.mail.yahoo.com": 587,
+    "smtp-mail.outlook.com": 587,
+    "smtp.aol.com": 465
+}
